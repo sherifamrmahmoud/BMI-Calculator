@@ -1,16 +1,51 @@
-# nti5
+# BMI Calculator App
 
-A new Flutter project.
+A responsive **BMI Calculator** application built with **Flutter** and **Dart**. The app provides an intuitive user experience for calculating Body Mass Index based on weight, height, and gender.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="bmi 1.png" width="400" />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img src="bmi 2.png" width="300" />
+  <img src="bmi 3.png" width="300" />
+</div>
+
+---
+
+## 🚀 Description
+This application is designed as a health-tracking tool with a responsive layout that ensures optimal performance across various screen sizes. Key highlights include:
+* Accurate BMI calculation.
+* Modern and clean user interface.
+* High interactivity during data input.
+
+---
+
+## 🛠 Tech Stack
+Built using modern technologies and best practices in mobile development:
+* **Framework**: Flutter
+* **Language**: Dart
+* **State Management**: Bloc/Cubit
+* **Design**: Responsive Design Implementation
+
+---
+
+## 💡 Features
+* **Dynamic Calculations**: Instant BMI calculation upon clicking the button.
+* **User Selection**: Gender selection (Male/Female) to customize the experience.
+* **Custom Controls**: Dedicated controls for adjusting weight and age.
+* **State Management**: Utilizes `Bloc/Cubit` to ensure a clean separation between business logic and UI, making the codebase maintainable and scalable.
+
+---
+
+## ⚙️ How to Run
+1. Ensure you have [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your machine.
+2. Clone the repository:
+```bash
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
