@@ -7,14 +7,14 @@ A responsive **BMI Calculator** application built with **Flutter** and **Dart**.
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="bmi 1.png" width="400" />
+  <img src="assets/bmi 1.png" width="400" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="bmi 2.png" width="300" />
-  <img src="bmi 3.png" width="300" />
+  <img src="assets/bmi 2.png" width="300" />
+  <img src="assets/bmi 3.png" width="300" />
 </div>
 
 ---
